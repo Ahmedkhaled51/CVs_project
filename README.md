@@ -100,8 +100,6 @@ The project uses the [Resume Dataset](https://www.kaggle.com/datasets/gauravdutt
 - [Ahmed Khaled](https://Ahmedkhaled51.github.io/)
 - [Ali Mohamed](https://aliiimohamedaliii.github.io/My-portfolio/)
 
-## 📜 License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🤝 Contributing
 Contributions are welcome! Please open an issue or submit a pull request for any improvements.
