@@ -97,7 +97,7 @@ The project uses the [Resume Dataset](https://www.kaggle.com/datasets/gauravdutt
 ## 👥 Team Members
 - [Abdelrahman Mahmoud](https://abdelrahmanmah.github.io/SafeZoneInc/Abdelrahman.html)
 - [GannaTullah Gouda](https://gannaasaad.github.io/index.html)
-- [Ahmed Khaled](https://Ahmedkhaled51.github.io/)
+- [Ahmed Khaled](https://ahmedkhaled51.github.io/Ahmedkhaled51/)
 - [Ali Mohamed](https://aliiimohamedaliii.github.io/My-portfolio/)
 
 
